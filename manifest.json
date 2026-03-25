@@ -1,26 +1,12 @@
-[
-  {
-    "id": "template-provider",
-    "name": "Template Provider",
-    "description": "A starter template for creating Nuvio providers.",
-    "version": "1.0.0",
-    "author": "Your Name",
-    "supportedTypes": [
-      "movie",
-      "tv"
-    ],
-    "filename": "providers/template.js",
-    "enabled": false,
-    "logo": "",
-    "contentLanguage": [
-      "en"
-    ],
-    "formats": [
-      "mp4",
-      "mkv"
-    ],
-    "limited": false,
-    "disabledPlatforms": [],
-    "supportsExternalPlayer": true
-  }
-]
+    {
+      "id": "cineby",
+      "name": "Cineby",
+      "description": "Cineby streaming provider",
+      "version": "1.0.0",
+      "author": "Your Name",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/cineby.js",
+      "enabled": true,
+      "logo": "https://www.cineby.gd/favicon.ico",
+      "contentLanguage": ["en"]
+    }
