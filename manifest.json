@@ -1,3 +1,7 @@
+{
+  "name": "My Providers",
+  "version": "1.0.0",
+  "scrapers": [
     {
       "id": "cineby",
       "name": "Cineby",
@@ -10,3 +14,5 @@
       "logo": "https://www.cineby.gd/favicon.ico",
       "contentLanguage": ["en"]
     }
+  ]
+}
